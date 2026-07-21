@@ -1,0 +1,6 @@
+{
+  "name": "University Student Marketplace & Study Hub",
+  "description": "An all-in-one university platform for students to buy/sell study materials, assignments, lab equipment, connect with seniors, and access an AI Study Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
